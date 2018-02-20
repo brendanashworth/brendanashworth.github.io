@@ -1,63 +1,48 @@
 # User Settings | Edit there as per required
 
-title: accent
-url: "http://ankitsultana.com"
-baseurl: "/accent"
+title: "Brendan Ashworth"
+url: "http://blog.ashworth.in"
+baseurl: ""
 
 # This will show up at the top of index page
 site_heading: >
-    foo <span class="faded">'s blog</span>
+    Brendan Ashworth <span class="faded">'s blog</span>
 
-email: your@email.com
-author: yourname
+email: brendan.ashworth@me.com
+author: Brendan Ashworth
 # This description will show up in google search results
 # (for index page) etc.
 description: >
-    accent is, as Trump would put it, the best
+    Personal blog of my [lack of] experience in life.
+    Business, technology, and various ramblings.
 
 # This will what will show against &copy; in the footer
-copyright: accent
+copyright: " Brendan Ashworth 2018"
 # Toggle your short bio, which will displayed on your index page
 # Just toggle it and run jekyll again to see
 intro: false         # Tip: Remove the span from site_heading if intro is set to true
 # This will be displayed in your intro
-short_bio: >
-    Welcome! This is <span>accent</span>, a mobile friendly theme for Jekyll. The main feature of this
-    theme is that you can change the accent color. Refer the
-    <a class="underline different-highlight" href="http://ankitsultana.com/accent/documentation.html">
-        Documentation
-    </a>
-    to know how.
-
-permalink: /:title.html
 
 # Comments are powered by disqus
-comments: true
+comments: false
 
 # keep about_stub roughly 12 words long for best results
 # This will show up at the bottom of each post
 # Note that about_footer should be true if you want
 # to see author information at the bottom of each post
 about_stub: >
-    Keep this sentence less than 13 words or it won't look good.
+    I'm a student, located where technology and business intersect.
 
-about_footer: true
+about_footer: false
 
-twitter_username: AnkitSultana
-github_username: yourgithub
-facebook_id: yourusername
+twitter_username: brendanash_
+github_username: brendanashworth
 
-favicon: true
-favicon_location: "images/favicon.ico"
+favicon: false
 
-profile_picture: images/temp.png
 paginate: 5
 paginate_path: "/page/:num"
-tracking_id: UA-69243698-7 # GA Tracking ID
-
-# Social Stuff | open graph and twitter cards
-og_image: "images/accent.png" # This will show in facebook thumbnails
-twitter_image: "http://ankitsultana.com/images/accent.png?1234" # This will show in twitter cards
+tracking_id: UA-53226403-1 # GA Tracking ID
 
 ####################################
 ####################################
